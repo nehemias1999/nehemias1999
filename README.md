@@ -106,7 +106,8 @@ Template for an AI-agent harness: verifiable structure (feature_list.json, progr
 
 <p align="center">
 
-[![Nehemias's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehemias1999&show_icons=true&theme=github_dark)](https://github.com/nehemias1999)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehemias1999&layout=compact&theme=github_dark)](https://github.com/nehemias1999)
+[![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nehemias1999&theme=github_dark)](https://github.com/nehemias1999)
+[![GitHub repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nehemias1999&theme=github_dark)](https://github.com/nehemias1999)
+[![GitHub streak stats](https://streak-stats.demolab.com/?user=nehemias1999)](https://github.com/nehemias1999)
 
 </p>
