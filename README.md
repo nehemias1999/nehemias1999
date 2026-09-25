@@ -85,11 +85,24 @@ I design declarative, reviewable "as-code" tooling for infrastructure and accoun
 
 ## Featured Projects
 
-**[ADO_AsCode](https://github.com/nehemias1999/ADO_AsCode)** — `PowerShell`
+> ⭐ **Highlighted** — latest As-Code, IaC & secure delivery work
+
+**[ADO_AsCode](https://github.com/nehemias1999/ADO_AsCode)** 🆕 — `PowerShell`
 Declarative, reviewable management of Azure DevOps project resources — teams, boards, variable groups and service connections — in pure PowerShell over the REST API, with a plan/apply model that never deletes and never commits a secret.
 
-**[GitHub_AsCode](https://github.com/nehemias1999/GitHub_AsCode)** — `PowerShell`
-Audit a GitHub account as code: read-only, declarative inventory in pure PowerShell. No dependencies beyond PowerShell, nothing deleted, no writes at all.
+**[GitHub_AsCode](https://github.com/nehemias1999/GitHub_AsCode)** 🆕 — `Python`
+Audit a GitHub account as code: read-only, declarative inventory with no dependencies beyond the runtime. Nothing deleted, no writes at all.
+
+**[gh-actions-auto-rollback](https://github.com/nehemias1999/gh-actions-auto-rollback)** 🆕 — `Shell` `Docker` `GitHub Actions`
+Automated deployment workflow via GitHub Actions: semantic versioning, blue/green container deploys, and healthcheck-triggered rollbacks for zero-downtime operations.
+
+**[terraform-observability-stack](https://github.com/nehemias1999/terraform-observability-stack)** 🆕 — `HCL` `Terraform` `Docker Compose`
+IaC deployment with Terraform + Docker Compose. Provisions an immutable environment with Traefik, Prometheus, Grafana, and PostgreSQL optimized for standard Linux LTS hosts.
+
+**[genai-secure-cicd-pipeline](https://github.com/nehemias1999/genai-secure-cicd-pipeline)** 🆕 — `Python` `Docker`
+Secure, end-to-end CI/CD pipeline for a Python GenAI application. Multi-stage Docker builds, Trivy vulnerability scanning, and automated cloud registry publishing.
+
+### More Projects
 
 **[Harness_Basic_Template](https://github.com/nehemias1999/Harness_Basic_Template)** — `Python`
 Template for an AI-agent harness: verifiable structure (feature_list.json, progress log, checkpoints), leader/implementer/reviewer subagents and a blocking verifier so an agent can work autonomously without faking progress.
