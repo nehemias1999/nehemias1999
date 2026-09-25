@@ -102,8 +102,6 @@ IaC deployment with Terraform + Docker Compose. Provisions an immutable environm
 **[genai-secure-cicd-pipeline](https://github.com/nehemias1999/genai-secure-cicd-pipeline)** 🆕 — `Python` `Docker`
 Secure, end-to-end CI/CD pipeline for a Python GenAI application. Multi-stage Docker builds, Trivy vulnerability scanning, and automated cloud registry publishing.
 
-### More Projects
-
 **[Harness_Basic_Template](https://github.com/nehemias1999/Harness_Basic_Template)** — `Python`
 Template for an AI-agent harness: verifiable structure (feature_list.json, progress log, checkpoints), leader/implementer/reviewer subagents and a blocking verifier so an agent can work autonomously without faking progress.
 
